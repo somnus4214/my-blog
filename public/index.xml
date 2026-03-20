@@ -9,6 +9,75 @@
     <lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>关于我</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;你好我是-somnus-&#34;&gt;你好，我是 Somnus 👋&lt;/h1&gt;
+&lt;p&gt;欢迎来到我的小站～&lt;br&gt;
+这里是我用来记录学习、折腾、踩坑、思考和成长的地方。&lt;/p&gt;
+&lt;p&gt;我是一名喜欢技术、喜欢自己动手搭东西的本科生。&lt;br&gt;
+平时会接触 &lt;strong&gt;人工智能、大模型应用、机器人、计算机视觉、开发工具链&lt;/strong&gt; 这些方向，也很喜欢研究各种开发环境、部署流程和命令行工具。&lt;/p&gt;
+&lt;p&gt;对我来说，技术最有意思的地方之一，不只是“结果跑出来了”✨，而是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;为什么它会报错？&lt;/li&gt;
+&lt;li&gt;为什么这个方案行得通？&lt;/li&gt;
+&lt;li&gt;为什么换一种方法性能就更好了？&lt;/li&gt;
+&lt;li&gt;一个项目到底是怎么从 0 到 1 被搭起来的？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我很享受这种不断探索、不断修修补补、最后终于跑通的过程 🚀&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;我最近在折腾什么-&#34;&gt;我最近在折腾什么 🛠️&lt;/h1&gt;
+&lt;h2 id=&#34;-大模型--aigc--agent&#34;&gt;🤖 大模型 / AIGC / Agent&lt;/h2&gt;
+&lt;p&gt;我对 &lt;strong&gt;LLM、RAG、Agent、生成式分析&lt;/strong&gt; 这些方向很感兴趣，最近也在了解：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;大模型应用怎么落地到真实场景&lt;/li&gt;
+&lt;li&gt;Dify 这类工具怎么快速搭建 AI 应用&lt;/li&gt;
+&lt;li&gt;对话系统、知识库、工作流、智能体这些东西到底是怎么串起来的&lt;/li&gt;
+&lt;li&gt;微调、数据准备、强化学习这些更底层一点的内容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;相比只看概念，我更喜欢一边学一边自己搭点东西。&lt;br&gt;
+哪怕只是一个小 demo，只要能跑起来，就很有意思 😎&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-工程部署和开发环境&#34;&gt;💻 工程、部署和开发环境&lt;/h2&gt;
+&lt;p&gt;除了模型本身，我也很喜欢折腾各种工程相关的东西，比如：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Ubuntu&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;WSL&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Netlify&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;域名解析、博客部署、静态网站托管&lt;/li&gt;
+&lt;li&gt;各种环境配置、依赖冲突、报错排查&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;很多人可能觉得配环境很烦，但我其实还挺喜欢这个过程的（笑）&lt;br&gt;
+因为每解决掉一个问题，都会有一种“啊，原来这里才是关键”的感觉。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-编程语言与工具&#34;&gt;🧠 编程语言与工具&lt;/h2&gt;
+&lt;p&gt;我平时会接触这些语言和工具：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;C++&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rust&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;VSCode&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Neovim&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;命令行工具、文本处理工具、效率工具&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我很喜欢那些轻量、直接、强大又优雅的工具。&lt;br&gt;
+比如会去研究 &lt;code&gt;ripgrep&lt;/code&gt; 为什么这么快，也会认真折腾编辑器配置、语言支持、终端体验这些细节。&lt;/p&gt;
+&lt;p&gt;有时候，工具本身也是一种乐趣 ⚡&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-机器人与仿真&#34;&gt;🚗 机器人与仿真&lt;/h2&gt;
+&lt;p&gt;我也接触过 &lt;strong&gt;ROS、Gazebo&lt;/strong&gt; 相关的内容，关注过：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;机器人运动仿真&lt;/li&gt;
+&lt;li&gt;TF 广播&lt;/li&gt;
+&lt;li&gt;编队控制&lt;/li&gt;
+&lt;li&gt;多机器人系统&lt;/li&gt;
+&lt;li&gt;机器人程序实现与调试&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我很喜欢这种“代码不只是停留在屏幕里，而是对应着一个真实系统逻辑”的感觉。&lt;br&gt;
+哪怕是在仿真环境里，也会让人觉得很酷 🤖&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>我的第一篇博客</title>
       <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
