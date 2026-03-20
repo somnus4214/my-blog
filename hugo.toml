@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://somnus.top/"
 title = "Somnus Blog"
 theme = "PaperMod"
 languageCode = "zh-cn"
